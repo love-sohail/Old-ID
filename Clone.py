@@ -86,25 +86,21 @@ def logo():
 
 	print("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 SOHAIL KHAN 🔥].  ║
+\x1b[0;34m║WELCOME TO MY TOOLS  [🔥 SOHAIL KHAN 🔥].  ║
 
-\x1b[0;33m║       #TOOL AUTHOR [SOHAIL KHAN] MAFIA PATHAN. ║
+\x1b[0;34m╚════════════════════════════════════════════╝
 
-\x1b[0;33m╚════════════════════════════════════════════╝
+\x1b[0;34m ---------------------------------------------
 
-\x1b[0;33m ---------------------------------------------
+\x1b[0;34m╔════════════════════════════════════════════╗
 
-\x1b[0;33m╔════════════════════════════════════════════╗
+\x1b[0;34m║#FACEBOOK : NAME [SOHAIL WAZIR ].       ║
 
-\x1b[0;33m║#YOUTUBE : SOHAIL TRICKS😐.  ║
+\x1b[0;34m║#GITHUB : https://github.com/love-sohail.   ║
 
-\x1b[0;33m║#FACEBOOK : NAME [SOHAIL WAZIR  II ].       ║
+\x1b[0;33m║#WHATSAPP : 03130997378.                   ║
 
-\x1b[0;33m║#GITHUB : https://github.com/love-sohail.   ║
-
-\x1b[0;33m║#WHATSAPP : 0313099737.                   ║
-
-\x1b[0;33m╚════════════════════════════════════════════╝""")
+\x1b[0;32m╚════════════════════════════════════════════╝""")
 
 def login():
 
